@@ -38,14 +38,8 @@ Acredito que a tecnologia atinge seu potencial máximo quando unida a **soft ski
 ### 📊 Status no GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=flsbiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-### 📊 Status no GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flsbiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsbiel&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flsbiel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flsbiel&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ---
@@ -59,4 +53,3 @@ Acredito que a tecnologia atinge seu potencial máximo quando unida a **soft ski
 <div align="center">
   <sub>Projeto de perfil inspirado na estética clean e funcional. Atualizado em 2026.</sub>
 </div>
-
